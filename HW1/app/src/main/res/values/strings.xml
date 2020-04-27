@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">HW1</string>
+    <string name="txt_cardinal">#</string>
+    <string name="txt1">1</string>
+    <string name="txt2">2\n<font size="14">ABC</font></string>
+    <string name="txt3">3\n<font size="14">DEF</font></string>
+    <string name="txt4">4\n<font size="14">GHI</font></string>
+    <string name="txt6">6\n<font size="14">MNO</font></string>
+    <string name="txt5">5\n<font size="14">JKL</font></string>
+    <string name="txt7">7\n<font size="14">PQRS</font></string>
+    <string name="txt9">9\n<font size="14">WXYZ</font></string>
+    <string name="txt8">8\n<font size="14">TUV</font></string>
+    <string name="txt_ast">*</string>
+    <string name="txt0">0\n<font size="20">+</font></string>
+    <string name="btncall">TODO</string>
+    <string name="hello">Hello!</string>
+    <string name="btndel">TODO</string>
+    <string name="txt_speed">Marcação Rápida</string>
+    <string name="tecla_1">Tecla 2</string>
+    <string name="btn_add">Adicionar</string>
+    <string name="btn_remove">Remover</string>
+    <string name="tecla_2">Tecla 3</string>
+    <string name="tecla_3">Tecla 4</string>
+    <string name="speed_nome">Nome</string>
+    <string name="speed_number">Numero telefone</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_guardar">Guardar</string>
+</resources>
